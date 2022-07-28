@@ -1,1 +1,1 @@
-# saranawaftask2
+#this task incloudes (I'm making a web page that does a GET for a sensitive value (any value of type integer) • Create a database of any kind .Create a web page that stores the sensor value in the database table)
